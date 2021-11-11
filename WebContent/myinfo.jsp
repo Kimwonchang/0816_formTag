@@ -13,7 +13,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title></title>
 </head>
 <body>
 
@@ -82,7 +82,7 @@
 		 	<option>보라카이</option>
 		 	<option>독도</option>
 		 	<option>제주도</option>
-		 	<option>나트랑</option>
+		 	<option>깃 홈페이지</option>
 		 	<option>대만</option>
 		 </select><br>
 		 
